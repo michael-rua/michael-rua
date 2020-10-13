@@ -1,4 +1,4 @@
-### Kia ora!
+Kia ora!
 ---
 
 I have strong web development experience through Enspiral Dev Academy. I strive to make socially responsible and environmentally sustainable software and bring positive vibes to everyone!
@@ -7,6 +7,7 @@ I have strong web development experience through Enspiral Dev Academy. I strive 
 - I have plenty of repos which are exercises from EDA in which were part of my full-stack learning journey. They were great fun and I will continue to keep working on them.
 
 Contact details
+
 ---
 
 *Email - Michaelrua1@gmail.com*
