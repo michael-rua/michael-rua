@@ -10,7 +10,7 @@ I have strong web development experience through Enspiral Dev Academy. I strive 
 ---
 
 - *Email - Michaelrua1@gmail.com*
-- *CV - https://drive.google.com/file/d/1XYnSJjyOlKtNDsZAJbLzcnM9sFCrZtfV/view?usp=sharing *
+- *CV - https://drive.google.com/file/d/1XYnSJjyOlKtNDsZAJbLzcnM9sFCrZtfV/view?usp=sharing*
 - *Linkedin - https://www.linkedin.com/in/michaelrua/*
 - *www.Reciplan.co.nz*
 
