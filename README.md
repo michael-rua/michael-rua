@@ -1,5 +1,4 @@
 ### Kia ora!
-
 ---
 
 I have strong web development experience through Enspiral Dev Academy. I strive to make socially responsible and environmentally sustainable software and bring positive vibes to everyone!
